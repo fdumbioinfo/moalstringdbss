@@ -1,0 +1,11 @@
+Package: moalstringdbss
+Title: moalstringdbss
+Version: 1.0.0
+Authors@R: 
+    person("Florent", "Dumont", , "florent.dumont@universite-paris-saclay.fr", role = c("aut", "cre"))
+Description: MOAL annotations.
+License: GPL-3
+Depends: 
+    R (>= 4.3)
+Encoding: UTF-8
+LazyData: FALSE
